@@ -8,6 +8,7 @@
     tools:context="com.yue.yo.MainActivity">
 
     <EditText
+        android:id="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Your Name"
@@ -19,6 +20,7 @@
         android:background="#ff0000"/>
 
     <Button
+        android:id="@+id/btn_1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="yo"
@@ -28,6 +30,7 @@
         android:background="#1abc9c"/>
 
     <Button
+        android:id="@+id/btn_2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="yo yo"
@@ -37,6 +40,7 @@
         android:background="#349bdb"/>
 
     <Button
+        android:id="@+id/btn_3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="mo"
@@ -46,6 +50,7 @@
         android:background="#34495e"/>
 
     <Button
+        android:id="@+id/btn_4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="or"
